@@ -1,14 +1,14 @@
 # 🌳 Cordova - HACKFEST 2023
 
-<img width="1100" alt="Banner Traveleen" src="https://arcudskzafkijqukfool.supabase.co/storage/v1/object/public/musiku/Cordova.png">
+<img width="1100" alt="Banner Traveleen" src="https://arcudskzafkijqukfool.supabase.co/storage/v1/object/public/cordova-hackfest-2023/Cordova.png">
 
 
 # ✨ Description
-## Application
+## Idea
 *A mobile-based application to record and monitor users' cholesterol level to prevent heart disease. This application is designed based on SDGs number 3, Good Health & Well Being. Completed with features such as recording cholesterol levels, graphs of increasing & decreasing cholesterol, percentage chance of developing heart disease, recommendations for the nearest health center, and suggestions for activities carried out according to users' cholesterol levels and percentage of developing heart disease.*
 
 ## Cordova-ML
-*Jobdesk here...*
+*Cordova-ML is a repository that houses the source code for creating a machine learning model used to predict the risk of a heart attack. In the model creation process, libraries such as pandas, matplotlib, and seaborn are employed for data preprocessing, the scikit-learn library is used for model creation, and pickle is used for serialization. The existence of this model is expected to contribute to reducing the risk of mortality due to heart attacks.*
 
 #  💻  Features
 - Authentication
@@ -48,6 +48,7 @@ https://github.com/KeluargaBerencana-Hackfest/Cordova-ML <br>
 https://github.com/KeluargaBerencana-Hackfest/Cordova-ML-Deploy
 
 # 📢 Deployment
-*No deployment on this process* </br>
+*No deployment on this repository* </br>
 
 # 📸 Documentation
+<img width="1100" alt="Banner Traveleen" src="https://arcudskzafkijqukfool.supabase.co/storage/v1/object/public/cordova-hackfest-2023/documentation-ml.jpg">
